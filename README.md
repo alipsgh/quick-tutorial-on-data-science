@@ -12,4 +12,5 @@ This repository contains basic and intermediate tutorials for data science and m
   
 * **Part 3: Machine Learning and Deep Learning**
   * Quick Tutorial on Scikit-learn
+  * Quick Tutorial on Keras
   * Quick Tutorial on PyTorch
