@@ -17,3 +17,5 @@ This repository contains basic and intermediate tutorials for data science and m
   * Quick Tutorial on Scikit-learn
   * Quick Tutorial on Keras
   * Quick Tutorial on PyTorch
+
+<sub>Ali Pesaranghader © 2019</sub>
