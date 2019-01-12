@@ -14,7 +14,7 @@ This repository contains basic and intermediate tutorials for data science and m
     * Plotly and Cufflinks [<a href="https://github.com/alipsgh/Quick-Tutorial-on-Data-Science/blob/master/part_2_data_science/part_2_3_3_plotly_and_cufflinks.ipynb" target="_blank">Go Plotly</a>]
   
 * **Part 3: Machine Learning and Deep Learning**
-  * Quick Tutorial on Scikit-learn [<a href="https://github.com/alipsgh/Quick-Tutorial-on-Data-Science/tree/master/part_3_ml_dl/quick-tutorial-on-scikit-learn" target="_blank">Go Plotly</a>]
+  * Quick Tutorial on Scikit-learn [<a href="https://github.com/alipsgh/Quick-Tutorial-on-Data-Science/tree/master/part_3_ml_dl/quick-tutorial-on-scikit-learn" target="_blank">Go Scikit-learn</a>]
   * Quick Tutorial on Keras
   * Quick Tutorial on PyTorch
 
