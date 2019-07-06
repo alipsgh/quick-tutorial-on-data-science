@@ -19,5 +19,6 @@ This repository contains basic and intermediate tutorials for data science and m
   * Quick Tutorial on Scikit-learn [<a href="https://github.com/alipsgh/Quick-Tutorial-on-Data-Science/tree/master/part_3_ml_dl/quick-tutorial-on-scikit-learn" target="_blank">Go Scikit-learn</a>]
   * Quick Tutorial on Keras
   * Quick Tutorial on PyTorch
+  * Quick Tutorial on TensorFlow
 
 <sub>Ali Pesaranghader © 2019</sub>
