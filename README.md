@@ -1,6 +1,6 @@
 # Quick Tutorial on Data Science
 
-This repository contains basic and intermediate tutorials for data science and machine learning practitioners.
+This repository contains basic and intermediate tutorials for data science and machine learning students and practitioners.
 
 * **Part 1: Introduction**
   * Quick Tutorial on Python
