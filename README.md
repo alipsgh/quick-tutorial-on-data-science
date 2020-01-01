@@ -21,4 +21,4 @@ This repository contains basic and intermediate tutorials for data science and m
   * Quick Tutorial on PyTorch
   * Quick Tutorial on TensorFlow
 
-<sub>Ali Pesaranghader © 2019</sub>
+<sub>Ali Pesaranghader © 2020</sub>
